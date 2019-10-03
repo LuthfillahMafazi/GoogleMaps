@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void openPlace(View view) {
         startActivity(new Intent(this, PlacePickerActivity.class));
+        //numpang mang
     }
 }
